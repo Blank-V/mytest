@@ -19,17 +19,32 @@
 标记之外`hello world`标记之外
 
 ```
-我是文字……
+- [x] one
+- [ ] two
+- [ ] three
 
-    <div>   
-        <div></div>
-        <div></div>
-        <div></div>
-    </div>
-    
-    [百度](www.baidu.com"百度一下"){:target="_blank"}
-[百度2][2]{:target="_blank"}
-[2]: http://www.baidu.com/   "百度二下"
+
+1. one
+***
+2. two
+***
+3. three
+
+* one
+      var a = 10;
+
+
+a|b|c 
+:-:|:- |-:
+居中 |左对齐|右对齐|
+====|=====|======|
+
+Markdown[^1]
+[^1]: Markdown是一种纯文本标记语言  
+
+
+
+<704310618@qq.com>       //自动邮箱链接
 
 
 
